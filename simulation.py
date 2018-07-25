@@ -2,27 +2,6 @@
 """Library with keywords to handle simulation processes for JCP and JGP variants
 """
 
-################################################################################
-#===================== Copyright by Continental Automotive GmbH  ===============
-################################################################################
-#
-# Title        : simulation.py
-#
-# Description  : File with with keywords to handle simulation processes
-#                for JCP and JGP variants
-#
-# Environment  : n/a
-#
-# Responsible  : Javier Ochoa (uidj5418)
-#
-# Guidelines   : n/a
-#
-# Template name: n/a
-#
-# CASE-Tool    : n/a
-#
-################################################################################
-
 __author__ = 'Javier Ochoa (uidj5418)'
 __version__ = 'See MKS'
 __name__ = 'simulation'
