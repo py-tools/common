@@ -13,26 +13,6 @@ path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
 if path not in sys.path:
     sys.path.insert(0, path)
 
-################################################################################
-#===================== Copyright by Continental Automotive GmbH  ===============
-################################################################################
-#
-# Title        : utils.py
-#
-# Description  : File for keywords with general utilities
-#
-# Environment  : n/a
-#
-# Responsible  : Javier Ochoa (uidj5418)
-#
-# Guidelines   : n/a
-#
-# Template name: n/a
-#
-# CASE-Tool    : n/a
-#
-################################################################################
-
 __author__ = 'Javier Ochoa (uidj5418)'
 __version__ = 'See MKS'
 
